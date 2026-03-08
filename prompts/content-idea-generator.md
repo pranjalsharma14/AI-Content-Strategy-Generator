@@ -1,13 +1,13 @@
 # 🚀 Content Idea Generator
 
-A **Generative AI component** that produces high-quality, engaging **content ideas** based on a specific **topic, audience, and platform**.
+A **Generative AI component** that produces high-quality and engaging **content ideas** based on a specific **topic, audience, and platform**.
 
 ---
 
 # 📌 System Overview
 
 | Feature | Description |
-|-------|-------------|
+|------|-------------|
 | Idea Generation | Produces multiple engaging content topics |
 | Audience Alignment | Tailors ideas to the specified audience |
 | Platform Optimization | Adapts ideas to the chosen platform |
@@ -15,8 +15,9 @@ A **Generative AI component** that produces high-quality, engaging **content ide
 
 ---
 
-## 🧠 Content Generation Workflow
+# 🧠 Content Generation Workflow
 
+<pre>
 User Input
 │
 ├── Topic / Business
@@ -31,13 +32,13 @@ Content Idea Processing
       │
       ▼
 Generated Content Ideas
-```
+</pre>
 
 ---
 
-## 🌳 Content Strategy Tree
+# 🌳 Content Strategy Tree
 
-```
+<pre>
 Content Strategy
 │
 ├── Educational Content
@@ -59,12 +60,14 @@ Content Strategy
     ├── Tips
     ├── Tools
     └── Resources
+</pre>
+
 ---
 
 # 📥 Input Variables
 
 | Variable | Example |
-|--------|--------|
+|------|--------|
 | Topic / Business | AI Productivity Tools |
 | Target Audience | College Students |
 | Platform | LinkedIn |
@@ -79,6 +82,8 @@ You are a **senior content strategist and digital marketing expert**.
 ## OBJECTIVE
 Generate engaging and practical **content ideas** that attract and engage the target audience.
 
+---
+
 ## INPUT VARIABLES
 
 Topic: `[Business or topic]`  
@@ -89,28 +94,25 @@ Platform: `[LinkedIn / Instagram / Twitter / Blog]`
 
 ## INSTRUCTIONS
 
-1. Generate **10 unique content ideas**.  
-2. Ensure ideas are **tailored to the selected platform**.  
-3. Focus on **valuable and engaging topics**.  
-4. Avoid **generic or repetitive ideas**.  
-5. Mix **educational, insight-based, and engaging ideas**.
+1. Generate **10 unique content ideas**
+2. Ensure ideas are **tailored to the selected platform**
+3. Focus on **valuable and engaging topics**
+4. Avoid **generic or repetitive ideas**
+5. Mix **educational, insight-based, and engaging ideas**
 
 ---
 
-# 📤 OUTPUT FORMAT
+# 📤 Output Format
 
+```
+Content Ideas
 
-Content Ideas:
-
-Title – Short explanation
-
-Title – Short explanation
-
-Title – Short explanation
+1. Title – Short explanation
+2. Title – Short explanation
+3. Title – Short explanation
 ...
-
-Title – Short explanation
-
+10. Title – Short explanation
+```
 
 ---
 
@@ -126,27 +128,27 @@ Platform: **LinkedIn**
 
 | # | Content Idea | Description |
 |---|-------------|-------------|
-| 1 | 5 AI Tools Every Student Should Know | Introduce productivity tools |
-| 2 | AI vs Traditional Study Methods | Compare learning approaches |
-| 3 | How AI Can Help With Research | Show practical benefits |
-| 4 | AI Tools for Faster Assignments | Productivity tips |
-| 5 | Future Skills Students Need | Thought leadership |
-| 6 | AI Study Planner | Organizing studies |
-| 7 | AI Mistakes Students Make | Educational content |
-| 8 | AI for Exam Preparation | Learning strategy |
-| 9 | Best AI Note Taking Tools | Practical tools |
-|10 | AI Learning Hacks | Quick tips |
+|1|5 AI Tools Every Student Should Know|Introduce productivity tools|
+|2|AI vs Traditional Study Methods|Compare learning approaches|
+|3|How AI Can Help With Research|Show practical benefits|
+|4|AI Tools for Faster Assignments|Productivity tips|
+|5|Future Skills Students Need|Thought leadership|
+|6|AI Study Planner|Organizing studies|
+|7|AI Mistakes Students Make|Educational content|
+|8|AI for Exam Preparation|Learning strategy|
+|9|Best AI Note Taking Tools|Practical tools|
+|10|AI Learning Hacks|Quick tips|
 
 ---
 
 # 📊 Content Idea Distribution
 
-
-Educational Content ██████████ 40%
-Engagement Content ████████ 30%
-Insight Content █████ 20%
-Value Content ███ 10%
-
+<pre>
+Educational Content   ██████████ 40%
+Engagement Content    ████████   30%
+Insight Content       █████      20%
+Value Content         ███        10%
+</pre>
 
 ---
 
@@ -162,7 +164,7 @@ Value Content ███ 10%
 # ⚡ Benefits
 
 ✔ Faster content ideation  
-✔ Platform-specific ideas  
+✔ Platform specific ideas  
 ✔ Better audience engagement  
 ✔ Supports content strategy creation  
 
@@ -170,13 +172,11 @@ Value Content ███ 10%
 
 # 🔗 Part of the System
 
-
+<pre>
 AI Content Strategy Generator
 │
 ├── Content Idea Generator
 ├── Content Calendar Generator
 ├── Post Format Generator
 └── Engagement Strategy Generator
-
-
----
+</pre>
