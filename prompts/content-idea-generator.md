@@ -15,53 +15,50 @@ A **Generative AI component** that produces high-quality, engaging **content ide
 
 ---
 
-# 🧠 Content Generation Workflow
-
+## 🧠 Content Generation Workflow
 
 User Input
 │
 ├── Topic / Business
 ├── Target Audience
 └── Platform
-│
-▼
+      │
+      ▼
 AI Content Idea Generator
-│
-▼
+      │
+      ▼
 Content Idea Processing
-│
-▼
+      │
+      ▼
 Generated Content Ideas
-
+```
 
 ---
 
-# 🌳 Content Strategy Tree
+## 🌳 Content Strategy Tree
 
-
+```
 Content Strategy
 │
 ├── Educational Content
-│ ├── Tutorials
-│ ├── Guides
-│ └── Explainers
+│   ├── Tutorials
+│   ├── Guides
+│   └── Explainers
 │
 ├── Engagement Content
-│ ├── Questions
-│ ├── Opinions
-│ └── Discussions
+│   ├── Questions
+│   ├── Opinions
+│   └── Discussions
 │
 ├── Insight Content
-│ ├── Trends
-│ ├── Industry News
-│ └── Case Studies
+│   ├── Trends
+│   ├── Industry News
+│   └── Case Studies
 │
 └── Value Content
-├── Tips
-├── Tools
-└── Resources
-
-
+    ├── Tips
+    ├── Tools
+    └── Resources
 ---
 
 # 📥 Input Variables
